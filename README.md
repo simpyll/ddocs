@@ -1,2 +1,2 @@
 # ddocs
-David's Docs - A collection of dev notes, scripts, and other cool shit
+David's Docs - A collection of dev notes, and scripts, and today I learneds
