@@ -12,3 +12,6 @@
 ## Law 
 - [US Law](https://www.ussc.gov/guidelines/primers/computer-crimes)
 - [GDPR](https://gdpr-info.eu/)
+
+## Exploits 
+- [Exploit DB](https://www.exploit-db.com/)
