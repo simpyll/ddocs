@@ -10,5 +10,5 @@
 
 
 ## Law 
-- https://www.ussc.gov/guidelines/primers/computer-crimes 
-- https://gdpr-info.eu/
+- [US Law](https://www.ussc.gov/guidelines/primers/computer-crimes)
+- [GDPR](https://gdpr-info.eu/)
