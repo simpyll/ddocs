@@ -30,7 +30,7 @@ Create a learning plan that outlines the topics you want to cover and the resour
 
 ## 4. Document your progress 
 
-As you learn about new topics, make sure to document your progress by taking notes and summarizing what you've learned. You can use your blog as a platform to share your thoughts and insights with others.
+As you learn about new topics, make sure to document your progress by taking notes and summarizing what you've learned. You can use a blog as a platform to share your thoughts and insights with others.
 
 ## 5. Stay up-to-date 
 
