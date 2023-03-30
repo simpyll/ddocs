@@ -9,15 +9,16 @@
 
 - [Networking](##)
 - [Operating Systems](##)
-- Reconnaissance 
-- Hardening
-- Cloud Security
-- Aplications
-- Cryptography 
-- Incident Responce
-- Law, Compliance, Regulation
-- Physical Security
-- Social Engineering
+- [Reconnaissance](##)
+- [Hardening](##)
+- [Incident Responce DFIR](##)
+- [Cloud Security](##)
+- [Aplications](##)
+- [Cryptography](##)
+- [Incident Responce](##)
+- [Regulation](##)
+- [Physical Security](##)
+- [Social Engineering](##)
 
 ## Netwoking 
 
@@ -47,3 +48,14 @@
 - Install each OS listed above 
 - Create a virtual lab 
 - Complete and harden [Linux from scratch](https://www.linuxfromscratch.org/lfs/downloads/stable/) stable version
+
+## Reconnaissance 
+## Hardening 
+## Incident Responce DFIR
+## Cloud Security
+## Aplications
+## Cryptography 
+## Incident Responce
+## Regulation
+## Physical Security
+## Social Engineering
