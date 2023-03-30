@@ -7,3 +7,8 @@
 
 ## Software 
 - [Att&ck List](https://attack.mitre.org/software/)
+
+
+## Law 
+- https://www.ussc.gov/guidelines/primers/computer-crimes 
+- https://gdpr-info.eu/
