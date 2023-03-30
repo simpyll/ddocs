@@ -5,18 +5,6 @@
 
 - Networking 
 - Operating Systems 
-  - Linux 
-      - Debian 
-        - Kali 
-        - Ubuntu
-      - Redhat
-      - Arch 
-      - BlackArch 
-      - Tails
-  - Mac 
-  - Windows 
-  - Android 
-  - Apple
 - Reconnaissance 
 - Hardening
 - Cloud Security
@@ -28,14 +16,29 @@
 - Social Engineering
 
 
+## Operating Systems 
+
+- Linux 
+   - Debian 
+    - Kali 
+    - Ubuntu
+  - Redhat
+  - Arch 
+    - BlackArch 
+  - Tails
+- MacOS
+- Windows 
+- Android 
+- iOS
+
 ## Actionable Tasks 
 
 - Install Vmware 
 - Install VirtualBox 
-- Install each OS listed above
-
-
+- Install each OS listed above 
+- Create a physical and virtual lab 
+- Complete and harden [Linux from scratch](https://www.linuxfromscratch.org/lfs/downloads/stable/) stable version
 
 ## Daily ToDo 
-- sololearn 
+- SoloLearn 
 - 1 blog post covering 1 security tool or topic
