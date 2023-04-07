@@ -59,3 +59,18 @@
 ## Regulation
 ## Physical Security
 ## Social Engineering
+
+## Databases to learn
+
+- MySQL
+- MSSQL
+- MongoDB
+- GraphQL
+- Postgres
+
+## Web Servers to learn
+
+- Apache
+- Nginx
+- IIS
+- NodeJS
